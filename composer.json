@@ -1,0 +1,16 @@
+{
+    "name": "terary/awesomeo-learning",
+    "type": "library",
+    "description": "First autoloader/composer project",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://terarychambers.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Terary Chambers",
+            "email": "terary@chambers.com",
+            "homepage": "http://terarychambers.com",
+            "role": "Developer"
+        }
+    ]
+}
